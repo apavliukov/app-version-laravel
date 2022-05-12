@@ -1,5 +1,5 @@
 {
-    "name": "avto-dev/app-version-laravel",
+    "name": "apavliukov/app-version-laravel",
     "description": "Laravel applications versioning",
     "keywords": [
         "laravel",
@@ -9,20 +9,20 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "avto-dev",
-            "homepage": "https://github.com/avto-dev"
+            "name": "Alexander Pavliukov",
+            "homepage": "https://github.com/apavliukov"
         }
     ],
     "require": {
         "php": "^7.3 || ^8.0",
-        "symfony/console": "^4.4 || ~5.0",
-        "illuminate/contracts": "~6.0 || ~7.0 || ~8.0",
-        "illuminate/container": "~6.0 || ~7.0 || ~8.0",
-        "illuminate/support": "~6.0 || ~7.0 || ~8.0",
-        "illuminate/view": "~6.0 || ~7.0 || ~8.0"
+        "symfony/console": "^4.4 || ~5.0 || ~6.0",
+        "illuminate/contracts": "~6.0 || ~7.0 || ~8.0 || ~9.0",
+        "illuminate/container": "~6.0 || ~7.0 || ~8.0 || ~9.0",
+        "illuminate/support": "~6.0 || ~7.0 || ~8.0 || ~9.0",
+        "illuminate/view": "~6.0 || ~7.0 || ~8.0 || ~9.0"
     },
     "require-dev": {
-        "laravel/laravel": "~6.0 || ~7.0 || ~8.0",
+        "laravel/laravel": "~6.0 || ~7.0 || ~8.0 || ~9.0",
         "mockery/mockery": "^1.4",
         "phpstan/phpstan": "~0.12.34",
         "phpunit/phpunit": "^8.5.4 || ^9.3"
@@ -58,7 +58,7 @@
         ]
     },
     "support": {
-        "issues": "https://github.com/avto-dev/app-version-laravel/issues",
-        "source": "https://github.com/avto-dev/app-version-laravel"
+        "issues": "https://github.com/apavliukov/app-version-laravel/issues",
+        "source": "https://github.com/apavliukov/app-version-laravel"
     }
 }
