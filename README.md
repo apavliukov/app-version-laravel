@@ -4,6 +4,8 @@
 
 # AppVersion for Laravel applications
 
+## Laravel 9 ready
+
 [![Version][badge_packagist_version]][link_packagist]
 [![PHP Version][badge_php_version]][link_packagist]
 [![Build Status][badge_build_status]][link_build_status]
